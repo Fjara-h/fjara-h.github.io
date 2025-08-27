@@ -1,0 +1,13 @@
+Rarity: Epic
+Description: Reduces DEFENSE's cooldown by 25%
+Collection Bonus Text: (x3) ARMOR +40
+
+
+On pick-up:
+* None
+Passive:
+* additive/mult?
+Collection bonus:
+* 
+Notes:
+* 
