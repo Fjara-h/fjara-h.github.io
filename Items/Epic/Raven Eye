@@ -1,0 +1,13 @@
+Rarity: Epic
+Description: Reduces ULTIMATE's cooldown by 25%
+Collection Bonus Text: (x3) Ultimate clears POWER, SPECIAL and DEFENSE cooldowns
+
+
+On pick-up:
+* None
+Passive:
+* Additive/multipliciative?
+Collection bonus:
+* Does ultimate clear cd immediately on use or after ending?
+Notes:
+* 
