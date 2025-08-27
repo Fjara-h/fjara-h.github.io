@@ -1,8 +1,15 @@
-Active:
-* Spawns 2 consumables when picked up
+Rarity: Common
+Description: Spawns 2 consumables when picked up
+Collection Bonus Text: (x5) DMG +10, VITALITY +20, ARMOR +20
+
+
+On pick-up:
+* Spawns 2 consumables on the ground near the player
 Passive:
 * None
-Collection Bonus:
-* (x5) DMG +10, VITALITY +20, ARMOR +20
+Collection bonus:
+* +10 Damage
+* +20 Vitality
+* +20 Armor
 Notes:
 * 
