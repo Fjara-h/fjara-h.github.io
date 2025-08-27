@@ -1,0 +1,13 @@
+Rarity: Rare
+Description: When not in combat, passively heal 2% Max Health every 2 seconds
+Collection Bonus Text: (x5) +30 DMG when at full Health
+
+
+On pick-up:
+* None
+Passive:
+* Heal 2% of max every 2 seconds. Each tick up is 2 seconds, it is not constant healing.
+Collection bonus:
+* 30 Damage at max health.
+Notes:
+* 
