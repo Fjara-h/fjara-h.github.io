@@ -1,0 +1,9 @@
+Rarity: Legendary
+Description: POWER, SPECIAL and DEFENSE have a 10% reduced cooldown for each 20% of Health missing
+
+On pick-up:
+* None
+Passive:
+* When the cooldown get reduced more when falling below a new threshold? OR only when the ability is used is it calculated?
+Notes:
+* 
