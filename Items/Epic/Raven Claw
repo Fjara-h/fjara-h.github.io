@@ -1,0 +1,13 @@
+Rarity: Epic
+Description: Reduces POWER's cooldown by 25%
+Collection Bonus Text: (x3) POWER deals +40% damage
+
+
+On pick-up:
+* None
+Passive:
+* additive/mult?
+Collection bonus:
+* 
+Notes:
+* 
