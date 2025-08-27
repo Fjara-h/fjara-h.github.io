@@ -1,0 +1,13 @@
+Rarity: Common
+Description: +1 DMG for each 10 VITALITY you have (Currently: +X)
+Collection Bonus Text: (x5) Crit Chance +20%
+
+
+On pick-up:
+* None
+Passive:
+* 1 Damage for each 10 Vitality
+Collection bonus:
+* +20% Crit chance
+Notes:
+* crit chance increase is additive or mult?
