@@ -1,0 +1,11 @@
+Rarity: Cursed
+Description:
+* Healing Orbs grant DMG +1
+* Stacks are lost at Death's Door
+
+On pick-up:
+* None
+Passive:
+* Not retroactive. Having to be revived/help or use a raven's feather removes stacks.
+Notes:
+* 
