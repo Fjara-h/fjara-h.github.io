@@ -2,7 +2,7 @@ Rarity: Common
 Description:
 * +1 Star(s) of Fate
 * For each Star of Fate spent, gain +15 Dream Shards
-Collection Bonus Text: 
+Collection Bonus Text: (x5) 
 
 
 On pick-up:
@@ -10,6 +10,6 @@ On pick-up:
 Passive:
 * +15 Dream Shards upon spending a Star of Fate
 Collection bonus:
-*  First re-roll of every player choice option (reword) will not spend a Star of Fate.
+* First re-roll of every player choice option (reword) will not spend a Star of Fate.
 Notes:
 * 
