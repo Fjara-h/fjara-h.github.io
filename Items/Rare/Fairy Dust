@@ -1,0 +1,13 @@
+Rarity: Rare
+Description: When taking damage, gain 18 SHIELD (at most every 30 seconds)
+Collection Bonus Text: (x5) 
+
+
+On pick-up:
+* None
+Passive:
+* On a 30 second cooldown, taking damage will give 18 shield.
+Collection bonus:
+* 50% more shield to any amount of shield applied or received.
+Notes:
+*  rounding? is it actually 30 seconds or can it be maniped somehow
