@@ -1,0 +1,9 @@
+Rarity: Cursed
+Description: Taking damage earns 10% of their value as Dream Shards
+
+On pick-up:
+* None
+Passive:
+* Damage before or after reduction? with shields? rounding?
+Notes:
+* 
