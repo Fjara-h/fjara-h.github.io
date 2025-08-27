@@ -1,0 +1,12 @@
+Rarity: Rare
+Description: +1 ARMOR for each 5% of missing Health
+Collection Bonus Text: (x4) ARMOR grants +40% of its value as DMG
+
+On pick-up:
+* None
+Passive:
+* 1 Armor for each 5% Health missing
+Collection bonus:
+* 
+Notes:
+* How do multiple stack?
