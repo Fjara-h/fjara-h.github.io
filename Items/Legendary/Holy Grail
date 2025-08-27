@@ -1,0 +1,9 @@
+Rarity: Legendary
+Description: When in combat, DEFENSE restores 8 health to all nearby heroes (at most every 5 seconds)
+
+On pick-up:
+* None
+Passive:
+* 5-second cooldown, using defense (on cast or on completion?) heals WHAT AOE?
+Notes:
+* 
