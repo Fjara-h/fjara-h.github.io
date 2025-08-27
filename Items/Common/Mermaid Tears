@@ -1,8 +1,12 @@
-Active:
-* 
+Rarity: Common
+Description: +25% to any healing effect provided or received
+Collection Bonus Text: (x5) VITALITY +30
+
+On pick-up:
+* None
 Passive:
-* +25% to any healing effect provided or received
-Collection Bonus:
-* (x5) VITALITY +30
+* Any healing received or given is increased by 25%
+Collection bonus:
+* Any damage instace dealt by the player after the boss reaches the 5% treshold will instantly kill the boss.
 Notes:
 * List all affected healing:
