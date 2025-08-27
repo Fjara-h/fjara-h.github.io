@@ -1,0 +1,9 @@
+Rarity: Legendary
+Description: Damage taken within 1 second(s) cannot exceed 50% of your Maximum Health
+
+On pick-up:
+* None
+Passive:
+* from 1 hit? or many? across 1 second from getting damage or ALWAYS a period of 1 second
+Notes:
+* 
