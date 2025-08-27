@@ -1,0 +1,13 @@
+Rarity: Common
+Description: After DASH, gain +10% Crit Chance for 2 seconds
+Collection Bonus Text: (x5) 
+
+
+On pick-up:
+* None
+Passive:
+* +10% Crit Chance after dash for 2 seconds.
+Collection bonus:
+* Critical hits deal 50% more damage
+Notes:
+* bonus increases additively?
