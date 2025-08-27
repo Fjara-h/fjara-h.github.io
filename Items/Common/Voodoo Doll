@@ -1,8 +1,13 @@
-Active:
+Rarity: Common
+Description: Deal +15% damage to bosses
+Collection Bonus Text: (x5) Any damage kills Bosses once they have less than 5% health
+
+On pick-up:
 * None
 Passive:
-* Deal +15% damage to bosses
-Collection Bonus:
-* (x5) Any damage kills Bosses once they have less than 5% health
+* +15% damage bonus to bosses
+Collection bonus:
+* Any damage instace dealt by the player after the boss reaches the 5% treshold will instantly kill the boss.
 Notes:
-* Damge bonus is multiplicative/additive?
+* Damage bonus is multiplicative/additive?
+* Which bosses? just level-end or miniboss/optional too?
