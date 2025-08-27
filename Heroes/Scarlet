@@ -1,0 +1,82 @@
+Attack range: Melee
+Unlocked by: N/A
+
+Trait: Lycanthrope
+Cooldown: N/A
+* NIGHT: At Nightfall, transform into a werewolf with new abilities.
+* DAY: At dawn, regain human form
+
+Attack (Human): Daggers
+Cooldown: N/A (base attack time)
+* Chain together a series of dagger slashes, each one dealing 15 damage
+* Every two consecutive attacks that hit an enemy, one COMBO POINT is generated (up to 3 can be stored)
+
+Attack (Werewolf): Claws
+Cooldown: N/A (base attack time)
+* Chain together a series of claw swipes, each one dealing 15 damage
+* Every two consecutive attacks that hit an enemy, one COMBO POINT is generated (up to 3 can be stored)
+
+Power (Human): Swift Strike
+Cooldown: 4 seconds
+* Rush forward while INTANGIBLE, dealing 40 damage along the way (what aoe?)
+* Spends all COMBO POINTS. Damage is increased by 50% for each point spent.
+
+Power (Werewolf): Bite
+Cooldown: 4 seconds
+* Rust towards the closest enemy while INTANGIBLE to bite it and deal 60 damage
+* Spends all COMBO POINTS. Damage is increased by 50% for each point spent
+
+Special (Human): Bomb
+Cooldown: 10 seconds
+* Drops a bomb that triggers a delayed explosion
+* Deals 60 damage to enemies and stuns Scarlet if she is within the area of effect
+
+Special (Werewolf): Leap
+Cooldown: 8 Seconds
+* An INTANGIBLE jump followed by a ground strike, dealing 60 damage around the landing zone
+
+Defense (Human): Cloak
+Cooldown: 8 seconds
+* Hide under the cloak and turn INTANGIBLE for 2 second(s)
+* ATTACK or POWER triggered during this effect gain +100% Crit Chance
+
+Defense (Werewolf): Howl
+Cooldown: 14 seconds
+* Gain 50 ARMOR. ATTACK and POWER gain 15% LIFE ON HIT
+* Lasts 5.5 seconds
+
+Ultimate (Human, Option 1): Hunter's Souvenir
+Cooldown: 90 seconds
+* Shoot with the shotgun, dealing 250 damage in a wide cone (what radius?)
+* Stores 2 charges
+
+Ultimate (Werewolf, Option 1): Gusting Roar
+Cooldown: 60 seconds
+* Deal 200 damage per second in a wide code (radius?) for 3 seconds
+
+Ultimate (Human, Option 2): Grandmother's Souvenir
+Unlocked at Rank 6
+Cooldown:  seconds
+* 
+
+Ultimate (Werewolf, Option 2): In the Belly
+Unlocked at Rank 6
+Cooldown:  seconds
+* 
+
+Talents:
+Starters:
+
+Standard:
+
+Ultimate:
+  Fiery Maw:
+    Common:
+      * Ultimate gains +30% range, deals 20% damage and applies IGNITE to enemies hit
+    Rare:
+      * Ultimate gains +30% range, deals 25% damage and applies IGNITE to enemies hit
+    Epic:
+      * Ultimate gains +30% range, deals 30% damage and applies IGNITE to enemies hit
+    Legendary:
+      * Ultimate gains +30% range, deals 35% damage and applies IGNITE to enemies hit
+    
