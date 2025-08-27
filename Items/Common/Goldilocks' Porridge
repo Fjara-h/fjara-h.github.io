@@ -1,9 +1,14 @@
-Active:
+Rarity: Common
+Description: Healing Orbs grant STRENGTH for 8 seconds and heal 10% more 
+Collection Bonus Text: (x5) 
+
+
+On pick-up:
 * None
 Passive:
-* Healing Orbs grant STRENGTH for 8 seconds and heal 10% more
-Collection Bonus:
-* +20 DMG while STRENGTH status is active
+* +15 Dream Shards upon spending a Star of Fate
+Collection bonus:
+* +20 while the strength status buff is active on the player
 Notes:
 * Additional healing is additive or multiplicative?
 * ANY strength status or just from healing orbs?
