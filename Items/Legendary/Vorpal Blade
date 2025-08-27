@@ -1,0 +1,9 @@
+Rarity: Legendary
+Description: Any damage you deal kills standard enemies below 20% Health or elite enemies below 10% Health
+
+On pick-up:
+* None
+Passive:
+* Damage dealt by the player kills non-elite enemies when they are below 20% or elites 10%
+Notes:
+* 
