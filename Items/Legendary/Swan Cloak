@@ -1,0 +1,9 @@
+Rarity: Legendary
+Description: DASH heals for 50% of damage taken over the last 2 second(s)
+
+On pick-up:
+* None
+Passive:
+* Is the heal applied immediately on casting dash?
+Notes:
+* 
