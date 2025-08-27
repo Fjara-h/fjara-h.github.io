@@ -1,0 +1,14 @@
+Rarity: Rare
+Description: At Critical Health, gain +4 REGENERATION (max every 60 seconds)
+Collection Bonus Text: (x4) DMG +50 when under a REGENERATION effect
+
+
+On pick-up:
+* None
+Passive:
+* On a 60 second cooldown, at critial health (what %/amount?) gain +4 regeneration until no longer at crital health.
+Collection bonus:
+* +50 when regeneration status effect is active
+Notes:
+* List of regeneration sources:
+
