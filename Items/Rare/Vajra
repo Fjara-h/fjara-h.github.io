@@ -1,0 +1,13 @@
+Rarity: Rare
+Description: DASH deals +40 damage to all enemies passed
+Collection Bonus Text: (x4) DASH casts a lightning strike at the starting location
+
+
+On pick-up:
+* None
+Passive:
+* +40 to each enemie passed through (what about clipping like with aladin dash vulnerable?) when is it applied before or after crit/vuln
+Collection bonus:
+* Dash casts a lightning strike, what radius/damge, at starting location (immediately?)
+Notes:
+* 
