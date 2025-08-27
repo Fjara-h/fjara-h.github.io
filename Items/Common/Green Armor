@@ -1,0 +1,13 @@
+Rarity: Common
+Description: ARMOR +2 for each Common Magical Object
+Collection Bonus Text: (x5) Rare Objects also count
+
+
+On pick-up:
+* None
+Passive:
+* +2 Armor for each common item.
+Collection bonus:
+* +2 Armor for each rare item.
+Notes:
+* 
