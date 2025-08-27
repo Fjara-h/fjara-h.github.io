@@ -1,0 +1,13 @@
+Rarity: Epic
+Description: Reduces DASH's cooldown by 25%
+Collection Bonus Text: (x3) Move Speed +15%
+
+
+On pick-up:
+* None
+Passive:
+* additive/mult?
+Collection bonus:
+* rounding?additive/mult?
+Notes:
+* 
