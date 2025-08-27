@@ -1,0 +1,9 @@
+Rarity: Legendary
+Description: Gain +1 VITALITY each time you collect a Healing Orb
+
+On pick-up:
+* None
+Passive:
+* Being healing by a healing orb grants +1 Vitality, it does not matter which player picks it up.
+Notes:
+* 
