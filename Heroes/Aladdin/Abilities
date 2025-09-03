@@ -1,0 +1,52 @@
+Trait: Jinniya of the Lamp
+Cast point:
+Cancelable:
+Cooldown Reduction on cancel:
+Cooldown: N/A
+Description:
+* Call Jinniya of the lamp for a wish. Next ability grants the wish
+* POWER: Deals 250 damage all around
+* SPECIAL: Makes 15 to 25 Dream Shards and 1 Consumable(s) appear
+* DEFENSE: Revives all nearby Heroes or fully heals them with a permanent 30 SHIELD
+
+Notes:
+* power aoe?
+* Defense aoe?
+
+Attack: Scimitars
+Cooldown: N/A (base attack time)
+* Chain together a series of attacks with the scimitars, each one dealing 16 damage. Last attack hits all around
+* Each attack can consume ENCHANTMENT points so you can strike twice with increased damage
+
+Power: Ring Jinn
+Cooldown: 6 seconds
+* Summon Jinn of the Ring to fly forward and deliver a powerful blow that deals 80 damage.
+* Can be held to move farther and increase damage up to +50%
+
+Notes:
+What distance? what aoe?
+
+Special: Enchanted Blades
+Cooldown: 8 seconds
+* Throw scimitars: They move forward, stop to spin, then return to Aladdin, dealing up to 90 damage
+* Scimitars gain ENCHANTMENT points for each enemy hit
+
+Defense: Somersault
+Cooldown: 6 seconds
+* Jump quickly to turn INTANGIBLE
+* Enemies passed become VULNERABLE for 3 seconds(s)
+
+Ultimate (Option 1): Dream Wish
+Cooldown: 90 seconds
+* Shoot with the shotgun, dealing 250 damage in a wide cone (what radius?)
+* Stores 2 charges
+
+Ultimate (Werewolf, Option 1): Gusting Roar
+Cooldown: 60 seconds
+* Consume 150 Dream Shards to earn an additional TRAIT charge
+
+Ultimate (Option 2): Magic Carpet
+Unlocked at Rank 6
+Cooldown: 15 seconds
+* Ride the Magic Carpet, turning INTANGIBLE and dealing 100 damage to enemies passed
+* Movement is forced but the direction can be controlled
