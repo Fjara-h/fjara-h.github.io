@@ -1,0 +1,332 @@
+Starters (Tier 1):
+  Aerial Catch:
+    Unlocked at: 
+    Common:
+      * Quest (x15): After the hit an enemy, retrieving SPECIAL's blades during DEFENSE grants +1 ARMOR
+      * Complete: Doing it again grants 12 SHIELD to all nearby Heroes for 6 seconds
+    Rare
+      * Quest (x15): After the hit an enemy, retrieving SPECIAL's blades during DEFENSE grants +1 ARMOR
+      * Complete: Doing it again grants 15 SHIELD to all nearby Heroes for 6 seconds
+    Epic:
+      * Quest (x15): After the hit an enemy, retrieving SPECIAL's blades during DEFENSE grants +1 ARMOR
+      * Complete: Doing it again grants 18 SHIELD to all nearby Heroes for 6 seconds
+    Legendary:
+      * Quest (x15): After the hit an enemy, retrieving SPECIAL's blades during DEFENSE grants +1 ARMOR
+      * Complete: Doing it again grants 21 SHIELD to all nearby Heroes for 6 seconds
+
+  Jinniya's Gift:
+    Unlocked at: 
+    Common:
+      * Gain +1 TRAIT charge
+      * Future Talents have a +15% chance of being Rare or above
+    Rare:
+      * Gain +1 TRAIT charge
+      * Future Talents have a +25% chance of being Rare or above
+    Epic:
+      * Gain +1 TRAIT charge
+      * Future Talents have a +35% chance of being Rare or above
+    Legendary:
+      * Gain +1 TRAIT charge
+      * Future Talents have a +45% chance of being Rare or above
+
+  Jinn's Might:
+    Unlocked at: 
+    Common:
+      * Quest (x20): Hitting an enemy with POWER at maximum charge grants +0.5 DMG
+      * Complete: Increases POWER's bonus damage from charge by 40%
+    Rare:
+      * Quest (x20): Hitting an enemy with POWER at maximum charge grants +0.5 DMG
+      * Complete: Increases POWER's bonus damage from charge by 50%
+    Epic:
+      * Quest (x20): Hitting an enemy with POWER at maximum charge grants +0.5 DMG
+      * Complete: Increases POWER's bonus damage from charge by 60%
+    Legendary:
+      * Quest (x20): Hitting an enemy with POWER at maximum charge grants +0.5 DMG
+      * Complete: Increases POWER's bonus damage from charge by 70%
+
+  Wish of Omnipotence:
+    Unlocked at: 
+    Common:
+      * Casting wishes grant OMNIPOTENCE to all nearby Heroes for 8 seconds
+      * During OMNIPOTENCE, Heroes POWER, SPECIAL and DEFENSE have a 0.5 second(s) cooldown
+    Rare:
+      * Casting wishes grant OMNIPOTENCE to all nearby Heroes for 10 seconds
+      * During OMNIPOTENCE, Heroes POWER, SPECIAL and DEFENSE have a 0.5 second(s) cooldown
+    Epic:
+      * Casting wishes grant OMNIPOTENCE to all nearby Heroes for 12 seconds
+      * During OMNIPOTENCE, Heroes POWER, SPECIAL and DEFENSE have a 0.5 second(s) cooldown
+    Legendary:
+      * Casting wishes grant OMNIPOTENCE to all nearby Heroes for 14 seconds
+      * During OMNIPOTENCE, Heroes POWER, SPECIAL and DEFENSE have a 0.5 second(s) cooldown
+
+Standard (Tier 2):
+  Slide Attack:
+    Unlocked at: 
+    Common:
+      * Using ATTACK while the blades are flying makes you slide and deal 400% of ATTACK's damage along the path
+    Rare:
+      * Using ATTACK while the blades are flying makes you slide and deal 500% of ATTACK's damage along the path
+    Epic:
+      * Using ATTACK while the blades are flying makes you slide and deal 600% of ATTACK's damage along the path
+    Legendary:
+      * Using ATTACK while the blades are flying makes you slide and deal 700% of ATTACK's damage along the path
+
+  Shard Blades:
+    Unlocked at: 
+    Common:
+      * While ENCHANTMENT is active on blades, ATTACKS have their range increased by 20% and deal +20% damage
+    Rare:
+      * While ENCHANTMENT is active on blades, ATTACKS have their range increased by 25% and deal +20% damage
+    Epic:
+      * While ENCHANTMENT is active on blades, ATTACKS have their range increased by 30% and deal +20% damage
+    Legendary:
+      * While ENCHANTMENT is active on blades, ATTACKS have their range increased by 35% and deal +20% damage
+
+  Air Dash:
+    Unlocked at: 
+    Common:
+      * DASH can be triggered during DEFENSE's air time
+      * Doing so increases ATTACK speed by 15% for 4 second(s)
+    Rare:
+      * DASH can be triggered during DEFENSE's air time
+      * Doing so increases ATTACK speed by 15% for 5 second(s)
+    Epic:
+      * DASH can be triggered during DEFENSE's air time
+      * Doing so increases ATTACK speed by 15% for 6 second(s)
+    Legendary:
+      * DASH can be triggered during DEFENSE's air time
+      * Doing so increases ATTACK speed by 15% for 7 second(s)
+
+  Jinn's Fury:
+    Unlocked at: 
+    Common:
+      * POWER strikes 3 times, each one dealing 40% damage
+    Rare:
+      * POWER strikes 3 times, each one dealing 45% damage
+    Epic:
+      * POWER strikes 3 times, each one dealing 50% damage
+    Legendary:
+      * POWER strikes 3 times, each one dealing 55% damage
+
+  Healing Blades:
+    Unlocked at: 
+    Common:
+      * When retrieved, SPECIAL's blades heal all Heroes nearby for each enemy hit, up to 7 Health
+    Rare:
+      * When retrieved, SPECIAL's blades heal all Heroes nearby for each enemy hit, up to 9 Health
+    Epic:
+      * When retrieved, SPECIAL's blades heal all Heroes nearby for each enemy hit, up to 11 Health
+    Legendary:
+      * When retrieved, SPECIAL's blades heal all Heroes nearby for each enemy hit, up to 13 Health
+
+  Major Enchantment:
+    Unlocked at: 
+    Common:
+      * While NOT using ATTACK, passively generate 1 ENCHANTMENT points every 3 seconds
+    Rare:
+      * While NOT using ATTACK, passively generate 1 ENCHANTMENT points every 2.5 seconds
+    Epic:
+      * While NOT using ATTACK, passively generate 1 ENCHANTMENT points every 2.25 seconds
+    Legendary:
+      * While NOT using ATTACK, passively generate 1 ENCHANTMENT points every 2 seconds
+
+  Dancing Blades:
+    Unlocked at: 
+    Common:
+      * Spin duration of SPECIAL's blades is increased by 75%
+      * Blades can be recalled sooner by triggering SPECIAL again
+    Rare:
+      * Spin duration of SPECIAL's blades is increased by 100%
+      * Blades can be recalled sooner by triggering SPECIAL again
+    Epic:
+      * Spin duration of SPECIAL's blades is increased by 125%
+      * Blades can be recalled sooner by triggering SPECIAL again
+    Legendary:
+      * Spin duration of SPECIAL's blades is increased by 150%
+      * Blades can be recalled sooner by triggering SPECIAL again
+
+  Cyclonic Appearance:
+    Unlocked at: 
+    Common:
+      * When triggering POWER, Jinn hits all nearby enemies and deals 50% of POWER's damage
+    Rare:
+      * When triggering POWER, Jinn hits all nearby enemies and deals 60% of POWER's damage
+    Epic:
+      * When triggering POWER, Jinn hits all nearby enemies and deals 70% of POWER's damage
+    Legendary:
+      * When triggering POWER, Jinn hits all nearby enemies and deals 80% of POWER's damage
+
+  Dive:
+    Unlocked at: 
+    Common:
+      * Using ATTACK during DEFENSE's jump makes Aladdin dive to the ground, dealing 400% of ATTACK's damage all around
+    Rare:
+      * Using ATTACK during DEFENSE's jump makes Aladdin dive to the ground, dealing 500% of ATTACK's damage all around
+    Epic:
+      * Using ATTACK during DEFENSE's jump makes Aladdin dive to the ground, dealing 600% of ATTACK's damage all around
+    Legendary:
+      * Using ATTACK during DEFENSE's jump makes Aladdin dive to the ground, dealing 700% of ATTACK's damage all around
+
+  Spinning Strikes:
+    Unlocked at: 
+    Common:
+      * After retrieving SPECIAL's blades, next ATTACK within 2 second(s) spins 2 times (twice as many with ENCHANTMENT) and deals +80% damage
+    Rare:
+      * After retrieving SPECIAL's blades, next ATTACK within 2 second(s) spins 2 times (twice as many with ENCHANTMENT) and deals +100% damage
+    Epic:
+      * After retrieving SPECIAL's blades, next ATTACK within 2 second(s) spins 2 times (twice as many with ENCHANTMENT) and deals +120% damage
+    Legendary:
+      * After retrieving SPECIAL's blades, next ATTACK within 2 second(s) spins 2 times (twice as many with ENCHANTMENT) and deals +140% damage
+
+  Acrobatics:
+    Unlocked at: 
+    Common:
+      * Each enemy passed during DEFENSE grants 3 ENCHANTMENT points
+    Rare:
+      * Each enemy passed during DEFENSE grants 4 ENCHANTMENT points
+    Epic:
+      * Each enemy passed during DEFENSE grants 5 ENCHANTMENT points
+    Legendary:
+      * Each enemy passed during DEFENSE grants 6 ENCHANTMENT points
+
+  Swordjinn:
+    Unlocked at: 
+    Common:
+      * POWER Jinn can catch SPECIAL's blades and deal +80% damage in a wider range
+    Rare:
+      * POWER Jinn can catch SPECIAL's blades and deal +120% damage in a wider range
+    Epic:
+      * POWER Jinn can catch SPECIAL's blades and deal +140% damage in a wider range
+    Legendary:
+      * POWER Jinn can catch SPECIAL's blades and deal +160% damage in a wider range
+
+  Leaping Strike:
+    Unlocked at: 
+    Common:
+      * ATTACK used right after DASH deals 200% damages and strikes twice with ENCHANTMENT
+    Rare:
+      * ATTACK used right after DASH deals 250% damages and strikes twice with ENCHANTMENT
+    Epic:
+      * ATTACK used right after DASH deals 300% damages and strikes twice with ENCHANTMENT
+    Legendary:
+      * ATTACK used right after DASH deals 350% damages and strikes twice with ENCHANTMENT
+
+  Tornado Jump:
+    Unlocked at: 
+    Common:
+      * DEFENSE casts a tornado that moves toward Aladdin and deals 40 damage per second for 4 seconds
+    Rare:
+      * DEFENSE casts a tornado that moves toward Aladdin and deals 50 damage per second for 4 seconds
+    Epic:
+      * DEFENSE casts a tornado that moves toward Aladdin and deals 60 damage per second for 4 seconds
+    Legendary:
+      * DEFENSE casts a tornado that moves toward Aladdin and deals 70 damage per second for 4 seconds
+
+  Sand Vortex:
+    Unlocked at: 
+    Common:
+      * SPECIAL's blades, when stationary, pull in enemies around them
+      * SPECIAL deals +40% damage
+    Rare:
+      * SPECIAL's blades, when stationary, pull in enemies around them
+      * SPECIAL deals +50% damage
+    Epic:
+      * SPECIAL's blades, when stationary, pull in enemies around them
+      * SPECIAL deals +60% damage
+    Legendary:
+      * SPECIAL's blades, when stationary, pull in enemies around them
+      * SPECIAL deals +70% damage
+
+  Dream Scimitars:
+    Unlocked at: 
+    Common:
+      * While ENCHANTMENT is active on blades, ATTACK has a 40% chance of earing Aladdin a Dream Shard upon enemy hit
+    Rare:
+      * While ENCHANTMENT is active on blades, ATTACK has a 50% chance of earing Aladdin a Dream Shard upon enemy hit
+    Epic:
+      * While ENCHANTMENT is active on blades, ATTACK has a 60% chance of earing Aladdin a Dream Shard upon enemy hit
+    Legendary:
+      * While ENCHANTMENT is active on blades, ATTACK has a 70% chance of earing Aladdin a Dream Shard upon enemy hit
+
+  Enchanted Jinn:
+    Unlocked at: Rank 8
+    Common:
+      * 
+    Rare:
+      * 
+    Epic:
+      * 
+    Legendary:
+      * 
+
+  Master Thief:
+    Unlocked at: 8
+    Common:
+      * 
+    Rare:
+      * 
+    Epic:
+      * 
+    Legendary:
+      * 
+
+Ultimates (Tier 3):
+  Wondrous Wishes:
+    Unlocked at: 
+    Common:
+      * All wishes are improved:
+      * POWER: deals +50% damage
+      * SPECIAL: 40% chance to generate 2 consumables
+      * DEFENSE: +100% SHIELD gained
+    Rare:
+      * All wishes are improved:
+      * POWER: deals +75% damage
+      * SPECIAL: 60% chance to generate 2 consumables
+      * DEFENSE: +125% SHIELD gained
+    Epic:
+      * All wishes are improved:
+      * POWER: deals +100% damage
+      * SPECIAL: 80% chance to generate 2 consumables
+      * DEFENSE: +150% SHIELD gained
+    Legendary:
+      * All wishes are improved:
+      * POWER: deals +125% damage
+      * SPECIAL: 100% chance to generate 2 consumables
+      * DEFENSE: +175% SHIELD gained
+
+  Dream Stride:
+    Unlocked at: 
+    Common:
+      * Each time ULTIAMTE hits an enemy, Aladdin gains 8 Dream Shards
+      * ULTIMATE has no cooldown if no enemies are hit
+    Rare:
+      * Each time ULTIAMTE hits an enemy, Aladdin gains 10 Dream Shards
+      * ULTIMATE has no cooldown if no enemies are hit
+    Epic:
+      * Each time ULTIAMTE hits an enemy, Aladdin gains 12 Dream Shards
+      * ULTIMATE has no cooldown if no enemies are hit
+    Legendary:
+      * Each time ULTIAMTE hits an enemy, Aladdin gains 14 Dream Shards
+      * ULTIMATE has no cooldown if no enemies are hit
+
+  Infinite Wishes:
+    Unlocked at: Rank 9
+    Common:
+      * 
+    Rare:
+      * 
+    Epic:
+      * 
+    Legendary:
+      * 
+
+  Quick Ride:
+    Unlocked at: Rank 9
+    Common:
+      * 
+    Rare:
+      * 
+    Epic:
+      * 
+    Legendary:
+      * 
