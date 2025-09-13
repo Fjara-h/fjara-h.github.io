@@ -12,4 +12,7 @@ Passive:
 Collection Bonus:
 * First purchase at Sandman per chapter is free
 Notes:
-* Price reduction is additive or multiplicative?
+* Price reduction is multiplicative. Price is 90% -> 81% -> 72.9% -> 65.61% -> 59.049% -> 53.1441% -> 47.82969% -> 43.046721%
+* Price and Dreamcatcher tooltip is rounded at the end of operations.
+  * The in-game tooltip for Dreamcatcher rounds to a whole number, and therefore can display an off-by-one shard price reduction value.
+* Price rounds down when <=.5, rounds up when >.5
